@@ -16,14 +16,14 @@
     </a>
 
     <h1>Robin and Doug Shore Innovation Center</h1>
+
+</header>
 <nav>
     <a href="index.php">Home</a>
     <a href="facilities.php">Facilities</a>
     <a href="research.php">Research</a>
     <a href="application.php">Application</a>
 </nav>
-</header>
-
 <main>
 
 <section>

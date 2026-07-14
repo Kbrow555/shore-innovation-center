@@ -16,12 +16,11 @@
     </a>
 
     <h1>Robin and Doug Shore Innovation Center</h1>
-
-    <nav>
-    <a href="index.html">Home</a>
-    <a href="facilities.html">Facilities & Labs</a>
-    <a href="research.html">Research & Opportunities</a>
-    <a href="eligibility.html">Eligibility Evaluator</a>
+<nav>
+    <a href="index.php">Home</a>
+    <a href="facilities.php">Facilities</a>
+    <a href="research.php">Research</a>
+    <a href="application.php">Application</a>
 </nav>
 </header>
 

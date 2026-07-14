@@ -1,6 +1,5 @@
-<?php include 'includes/header.php'; ?>
-<?php include 'includes/nav.php'; ?>
-
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">

@@ -129,19 +129,15 @@ function evaluateEligibility() {
         eligible = average > 3.7;
     }
 
-    if(eligible){
+    if (eligible) {
 
-        result.innerHTML = `
-            <h3>Congratulations!</h3>
+    result.innerHTML =
+        "<h3>Congratulations!</h3>" +
+         "<p><strong>Average Grade:</strong> " + average.toFixed(2) + "</p>" +
+        "<p>You meet the eligibility requirements.</p>" +
+        "<p><a href='application.php'>Apply for Faculty Research Assistant</a></p>";
 
-            <p><strong>Average Grade:</strong> ${average.toFixed(2)}</p>
 
-            <p>You meet the eligibility requirements for a Summer Student Assistant position.</p>
-
-            <p>
-                <a href="#">Continue to the Milestone 3 Application Form</a>
-            </p>
-        `;
 
     }else{
 

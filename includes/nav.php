@@ -1,4 +1,4 @@
-nav>
+<nav>
     <a href="index.php">Home</a>
     <a href="facilities.php">Facilities & Labs</a>
     <a href="research.php">Research & Opportunities</a>

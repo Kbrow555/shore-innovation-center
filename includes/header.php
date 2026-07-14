@@ -7,12 +7,6 @@
     <title>Facilities & Labs</title>
     <link rel="stylesheet" href="style.css">
     
-    <nav>
-    <a href="index.php">Home</a>
-    <a href="facilities.php">Facilities</a>
-    <a href="research.php">Research</a>
-    <a href="application.php">Application</a>
-</nav>
 </head>
 
 <body>

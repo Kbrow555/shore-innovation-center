@@ -8,11 +8,11 @@ body {
 }
 
 /* Header */
-header {
-    background-color: #FFC72C;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  color: rgb(9, 9, 9);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    padding: 8px 12px;
 }
 
 header h1 {
